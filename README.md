@@ -11,4 +11,6 @@ At the end , we also looked briefly at musicals in GB for a future project by th
 
 ### Challenge
 We found out that the plays with a goal under 5,000 have far more chance of being successful (aroundf 70%). And for any goal over 5,000, there  is often less than 50% chance to succeed.
-![Outcome based on goal - plays](Outcome based on goal - plays.png)
+![OutcomeBasedOnGoal](OutcomeBasedOnGoal.png)
+Looking at thenoutcomes of all forms of theater, we can definitely see that the best moinths to launch a campaign are May, then June.
+![OutcomeBasedOnLaunchDate](OutcomeBasedOnLaunchDate.png)
