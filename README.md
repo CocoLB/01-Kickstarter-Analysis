@@ -14,7 +14,7 @@ We found out that the plays with a goal under 5,000 have far more chance of bein
 
 ![OutcomeBasedOnGoal](OutcomeBasedOnGoal.png)
 
-Looking at thenoutcomes of all forms of theater, we can definitely see that the best moinths to launch a campaign are May, then June.
+Looking at the outcomes of all forms of theater, we can definitely see that the best moinths to launch a campaign are May, then June.
 
 ![OutcomeBasedOnLaunchDate](OutcomeBasedOnLaunchDate.png)
 
