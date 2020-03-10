@@ -1,5 +1,5 @@
 # Analysis of Kickstarter Campaigns
-
+### Course
 Performing analysis on kickstarter campaigns to analyse trends to help a playwright set up her own successful campaign.
 We found out that the most successful campaigns were the ones for theater/plays, and the outome could depend on different factors, notably launch date (June) and duration of the campaign (1 month).
 
@@ -9,4 +9,4 @@ We found out that the most successful campaigns were the ones for theater/plays,
 
 At the end , we also looked briefly at musicals in GB for a future project by the playwright.
 
-
+### Challenge
